@@ -209,7 +209,7 @@ h4 {
 
 #projects {
     padding: 40px;
-    background-color: #F6F6F6;
+    background-color: #1A1A1D;
     display: grid;
     grid-template-columns: repeat(3, 1fr);
     grid-gap: 20px;
@@ -277,7 +277,7 @@ h4 {
 
 .contact-details p {
     margin-bottom: 5px;
-    color: #D0D0D0;
+    color: #1A1A1D;
 }
 
 .social-icons {
