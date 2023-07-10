@@ -66,23 +66,23 @@ nav ul li a:hover {
 }
 
 h1 {
-    color: #FF8B5A;
+    color: black;
     margin: 20px 0px 20px;
     font-size: 20px;
 }
 
 h1 span {
-    color: #FFC947;
+    color: white;
 }
 
 h3 {
-    color: #FF8B5A;
+    color: black;
     font-size: 25px;
     margin-bottom: 50px;
 }
 
 h4 {
-    color: #FF8B5A;
+    color: black;
     letter-spacing: 2px;
     font-size: 20px;
 }
