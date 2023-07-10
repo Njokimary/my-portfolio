@@ -193,10 +193,12 @@ h4 {
 
 .skill-card li {
     margin-bottom: 5px;
+    color: #D0D0D0;
 }
 
 .skill-card:nth-child(1) {
     background-color: #1A1A1D;
+    
 }
 
 .skill-card:nth-child(2) {
