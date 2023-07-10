@@ -233,6 +233,9 @@ h4 {
     max-width: 100%;
 }
 
+.project h2{
+    color: white;
+}
 .project h3 {
     margin-top: 20px;
     font-size: 24px;
@@ -242,7 +245,7 @@ h4 {
 .project p {
     margin-top: 10px;
     font-size: 16px;
-    color: #555;
+    color:white;
 }
 
 .btn {
